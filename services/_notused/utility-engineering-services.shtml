@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Utility Engineering Services | CLA Engineers, Inc.  |  Norwich, Connecticut</title>
+
+<link href="../css/main.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="../css/jqueryslidemenu.css" />
+
+<!--[if lte IE 7]>
+<style type="text/css">
+html .jqueryslidemenu{height: 1%;} /*Holly Hack for IE7 and below*/
+</style>
+<![endif]-->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="../scripts/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="../scripts/multipleemail.js" language="javascript"></script>
+</head>
+<body>
+<div id="maincontainer">
+
+  <div id="topsection"><a href="../index.html"><img src="../images/header_01.jpg" alt="CLA Engineers" width="800" height="169" border="0" /></a></div>
+  <div id="NavBar"><div id="myslidemenu" class="jqueryslidemenu">
+<ul>
+<li><a href="../about/index.html">About CLA</a>
+<ul>
+  <li><a href="../about/staff.html">Staff</a></li>
+  <li><a href="../about/links.html">Affiliations & Links</a></li>
+  </ul>
+</li>
+<li><a href="../services/index.html">Services</a>
+<ul>
+  <li><a href="../services/civil.html">Civil & Site Engineering</a></li>
+  <li><a href="../services/structural.html">Structural Engineering</a></li>
+  <li><a href="../services/town.html">Town Services</a></li>
+  <li><a href="../services/water_sewer.html">Water & Sewer</a></li>
+  <li><a href="../services/wetlands.html">Wetlands/Soils</a></li>
+  <li><a href="../services/surveying.html">Land Surveying</a></li>
+  <li><a href="../services/gps_gis.html">GPS/GIS</a></li>
+  <li><a href="../services/marine.html">Marine/Docks</a></li>
+  <li><a href="../services/bridges.html">Bridges</a></li>
+  </ul>
+  </li>
+<li><a href="../projects/index.html">Projects</a></li>
+<li><a href="../career.html">Career Opportunities</a></li>
+<li><a href="../contact.html" style="border:none">Contact Us</a></li>
+</ul>
+<br style="clear: left" />
+</div></div>
+  <div id="row3"></div>
+  <div id="contentwrapper">
+  <div id="leftcolumn">
+    <h1>CLA Services</h1>
+<ul class="menu">
+  <li><a href="../services/civil.html"><span>Civil &amp; Site Engineering</span></a></li>
+  <li><a href="../services/structural.html"><span>Structural Engineering</span></a></li>
+  <li><a href="../services/town.html"><span>Town Services</span></a></li>
+  <li><a href="../services/water_sewer.html">Water &amp; Sewer</a></li>
+  <li><a href="../services/wetlands.html">Wetlands/Soils</a></li>
+  <li><a href="../services/surveying.html">Land Surveying</a></li>
+  <li><a href="../services/gps_gis.html">GPS/GIS</a></li>
+  <li><a href="../services/marine.html">Marine/Docks</a></li>
+  <li><a href="../services/bridges.html">Bridges</a></li>
+</ul>
+</div>
+<div id="contentcolumn">
+<div class="innertube" style="margin-right:0px">
+  <h1>Water &amp; Sewer</h1>
+  <div id="photoColumn">
+  	<div id="photoColumnTop">
+    <p><img src="images/sewer2.jpg" alt="Sewer" width="230" height="152" /></p>
+    <p><img src="images/sewer.jpg" alt="Sewer Pipes" width="230" height="155" /></p>
+    <p><img src="images/sewerpipes.jpg" alt="Sewer Pipes" width="230" height="249" /></p>
+  	</div>
+  </div>  
+  <p>CLA has provided utility engineering services to municipal and private clients since 1984. Our team of in-house professionals have the specialized skills and experience needed to develop your utility project from concept to completion, on schedule and within budget. In addition to our engineering services, we offer construction inspection of our utility projects with experienced, full-time or part-time construction inspectors.</p>
+  <h2>Utility Engineering Services</h2>
+  <ul>
+    <li>Sanitary Sewer Design</li>
+    <li>Pump Station Design</li>
+    <li>Water System Design</li>
+    <li>Water Towers</li>
+    <li>Septic System Design</li>
+    <li>DEP approvals</li>
+    <li>Construction Documents</li>
+    <li>Specifications and Details</li>
+    <li>Permitting (Local, State and Federal)</li>
+    <li>Drainage System Design</li>
+    </ul>
+    <div id="infoBox">
+  <h3><img src="../images/arrow.gif" alt="arrow" width="20" height="20" align="absmiddle" /> For Further information please contact:</h3>
+  <blockquote>
+    <p>Robert A. DeLuca, P.E., Principal<br />
+      <script type="text/javascript">document.write(userName[4])</script></p>
+  </blockquote>
+  <h3><img src="../images/arrow.gif" alt="arrow" width="20" height="20" align="absmiddle" /> Water & Sewer Projects</h3>
+  <blockquote>
+    <p>To view a listing of projects, <a href="../projects/index.html#watersewer">click here &raquo;</a></p>
+  </blockquote>
+    </div>
+  </div>
+</div>
+</div>
+
+<div id="footer">CLA Engineers, Inc. | 317 Main Street | Norwich, CT 06360 | Phone: 860-886-1966 | Fax: 860-886-9165</div>
+<div id="sitecredit"><a href="http://www.mirandacreative.com" target="_blank"><img src="../images/sitetag.gif" alt="Miranda Creative" width="201" height="24" border="0" /></a></div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4405790-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8276605-1");
+pageTracker._trackPageview();
+} catch(err) {}</script></div>
+</body>
+</html>

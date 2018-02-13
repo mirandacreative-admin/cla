@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Structural Engineering Firm | CLA Engineers, Inc. | Noriwch, Connecticut</title>
+<meta name="keywords" content="Structural Engineering Firm, Structural Engineering Services" />
+<meta name="description" content="CLA Engineers, Inc. provides a broad range of structural engineering consulting services to both private and public clients." />
+<link href="../css/main.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="../css/jqueryslidemenu.css" />
+
+<!--[if lte IE 7]>
+<style type="text/css">
+html .jqueryslidemenu{height: 1%;} /*Holly Hack for IE7 and below*/
+</style>
+<![endif]-->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="../scripts/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="../scripts/multipleemail.js" language="javascript"></script>
+
+</head>
+<body>
+<div id="maincontainer">
+
+  <div id="topsection"><a href="../index.html"><img src="../images/header_01.jpg" alt="CLA Engineers" width="800" height="169" border="0" /></a></div>
+  <div id="NavBar"><div id="myslidemenu" class="jqueryslidemenu">
+<ul>
+<li><a href="../about/index.html">About CLA</a>
+<ul>
+  <li><a href="../about/staff.html">Staff</a></li>
+  <li><a href="../about/links.html">Affiliations & Links</a></li>
+  </ul>
+</li>
+<li><a href="../services/index.html">Services</a>
+<ul>
+  <li><a href="../services/civil.html">Civil & Site Engineering</a></li>
+  <li><a href="../services/structural.html">Structural Engineering</a></li>
+  <li><a href="../services/town.html">Town Services</a></li>
+  <li><a href="../services/water_sewer.html">Water & Sewer</a></li>
+  <li><a href="../services/wetlands.html">Wetlands/Soils</a></li>
+  <li><a href="../services/surveying.html">Land Surveying</a></li>
+  <li><a href="../services/gps_gis.html">GPS/GIS</a></li>
+  <li><a href="../services/marine.html">Marine/Docks</a></li>
+  <li><a href="../services/bridges.html">Bridges</a></li>
+  </ul>
+  </li>
+<li><a href="../projects/index.html">Projects</a></li>
+<li><a href="../career.html">Career Opportunities</a></li>
+<li><a href="../contact.html" style="border:none">Contact Us</a></li>
+</ul>
+<br style="clear: left" />
+</div></div>
+  <div id="row3"></div>
+  <div id="contentwrapper">
+  <div id="leftcolumn">
+    <h1>CLA Services</h1>
+<ul class="menu">
+  <li><a href="../services/civil.html"><span>Civil &amp; Site Engineering</span></a></li>
+  <li><a href="../services/structural.html"><span>Structural Engineering</span></a></li>
+  <li><a href="../services/town.html"><span>Town Services</span></a></li>
+  <li><a href="../services/water_sewer.html">Water &amp; Sewer</a></li>
+  <li><a href="../services/wetlands.html">Wetlands/Soils</a></li>
+  <li><a href="../services/surveying.html">Land Surveying</a></li>
+  <li><a href="../services/gps_gis.html">GPS/GIS</a></li>
+  <li><a href="../services/marine.html">Marine/Docks</a></li>
+  <li><a href="../services/bridges.html">Bridges</a></li>
+</ul>
+</div>
+<div id="contentcolumn">
+<div class="innertube" style="margin-right:0px">
+  <h1>Structural Engineering</h1>
+  <div id="photoColumn">
+	<div id="photoColumnTop">
+    <p><img src="../images/DavisIslandDeck.jpg" alt="Davis Island Deck" width="230" height="156" /></p> 
+    <p><img src="../images/tower_0206.jpg" alt="Tower" width="230" height="173" /></p>
+    </div>
+  </div>
+  <p>CLA Engineers, Inc. provides a broad range of structural engineering consulting services to both private and public clients. We provide the professional services necessary to construct or repair buildings and other structures according to local building code requirements. Our expertise is rooted in a thorough understanding of construction materials and methods. We believe that excellent customer service is just as important as technical expertise and that a good structural design responds to the needs of the project.</p>
+  <p>Many of our projects involve the design of new building foundations and structural systems using structural steel, reinforced concrete, masonry and engineered wood framing systems.</p>
+  <p>We have considerable experience in evaluating, improving and repairing existing buildings and structures. These projects often require special knowledge of antiquated building systems and materials, and an understanding of how these materials and systems interact with modern structural systems. Our knowledge of the building code provisions that apply to existing and historic structures allows us to recommend efficient and code compliant alternatives for building renovation and restoration projects.</p>
+  <p>We have specialized knowledge of the requirements for building within coastal flood zones. We have put our knowledge and experience to work in the flood resistant design of commercial and residential projects located within coastal &ldquo;A&rdquo; and &ldquo;V&rdquo; zones.</p>
+  <h2>The Structural Engineering services we offer include:</h2>
+  <ul>
+    <li>Offices, Retail and other      Commercial Buildings</li>
+    <li>Institutional and Educational      Buildings</li>
+    <li>Residential Structural      Engineering</li>
+    <li>Foundation Engineering </li>
+    <li>Structural Condition      Assessments </li>
+    <li>Building Rehabilitation, Renovations      and Additions </li>
+    <li>Structural Failure      Investigations </li>
+    <li>Coastal Flood Zone Structural      Engineering </li>
+    <li>Historic Restoration and      Preservation</li>
+    <li>Religious Structures</li>
+    <li>Threshold Review / Peer      Review</li>
+    <li>Special Inspections </li>
+    <li>Site Retaining Walls</li>
+    <li>Bridges, Dams, and Special Structures
+      </li>
+  </ul>
+  <div class="clearBoth"></div>
+  <div id="infoBox">
+      <h3><img src="../images/arrow.gif" alt="arrow" width="20" height="20" align="absmiddle" /> For Further information please contact:</h3>
+      <blockquote>
+        <p>Garry Ferrari, P. E. <br />
+          <script type="text/javascript">document.write(userName[3])</script></p>
+      </blockquote>
+<h3><img src="../images/arrow.gif" alt="arrow" width="20" height="20" align="absmiddle" /> Structural Engineering Projects</h3>
+      <blockquote>
+        <p>To view a listing of projects, <a href="../projects/index.html#structural">click here &raquo;</a>  </p>
+      </blockquote>
+  </div>
+      </div>
+</div>
+</div>
+
+<div id="footer">CLA Engineers, Inc. | 317 Main Street | Norwich, CT 06360 | Phone: 860-886-1966 | Fax: 860-886-9165</div>
+<div id="sitecredit"><a href="http://www.mirandacreative.com" target="_blank"><img src="../images/sitetag.gif" alt="Miranda Creative" width="201" height="24" border="0" /></a></div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4405790-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8276605-1");
+pageTracker._trackPageview();
+} catch(err) {}</script></div>
+</body>
+</html>
